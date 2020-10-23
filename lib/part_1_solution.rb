@@ -32,3 +32,21 @@ def consolidate_cart(cart)
   end
   new_cart
 end
+
+def apply_coupons(item_hashes, coupon_hashes)
+  new_array = []
+  
+  
+  new_array
+end 
+
+def apply_clearance(cart)
+  index = 0
+  new_array = []
+  
+  cart.each do |grocery_item|
+    
+  end 
+  
+  
+end 
